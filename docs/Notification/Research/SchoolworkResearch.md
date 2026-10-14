@@ -104,6 +104,14 @@ cards:
     tags:
       - text: 求是大讲堂
         class: tag-category
+  - ddl: 2026-10-09
+    title: 新学期计算机学院朋辈辅学活动报名开始
+    detail: 新学期朋辈辅学活动招募开始啦，我们诚挚邀请有责任心且对课程内容有深刻理解的你加入我们，成为一位优秀的小老师！本项目会为授课小老师提供勤工助学津贴或志愿者小时数支持，小老师可根据实际服务情况获得劳动育人学时（可用于评定劳动育人标兵）
+    href: https://mp.weixin.qq.com/s/lg4WuJS-ZxjivMZFWJphNA
+    tags:
+      - text: 朋辈辅学
+        class: tag-category
+
 ---
 
 !!! note 通知
